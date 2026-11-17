@@ -9801,3 +9801,12 @@ html body .moving-bar .moving-text span {
 
 
 
+.dik-service-info h3 a {
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.dik-service-info h3 a:hover {
+    color: #595a59;
+}
