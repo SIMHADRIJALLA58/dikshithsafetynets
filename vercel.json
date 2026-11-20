@@ -5,7 +5,7 @@
       "has": [
         {
           "type": "host",
-          "value": "dikshithsafetynetsin.vercel.app"
+          "value": "dikshithsafetynets.vercel.app"
         }
       ],
       "destination": "https://dikshithsafetynetsin.in/$1",
