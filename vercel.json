@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "dikshithsafetynets.vercel.app"
+        }
+      ],
+      "destination": "https://dikshithsafetynets.in/$1",
+      "permanent": true
+    }
+  ]
+}
